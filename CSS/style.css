@@ -31,3 +31,9 @@ textarea {
   margin: 10px 0px;
   box-sizing: border-box;
 }
+
+button {
+  padding: 10px 15px;
+  margin-right: 10px;
+  cursor: pointer;
+}
